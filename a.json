@@ -1,0 +1,38 @@
+{
+    "name": "脱獄ごっこ",
+    "identifier": "github.com/U5KUN/pe/releases/",
+    "sourceURL": "https://d.kuku.lu/w7wzy3kz8",
+    "apps": [
+        {
+            "name": "脱獄ごっこ",
+            "bundleIdentifier": "jp.uuum.playingescape.9.16.0",
+            "developerName": "uuu",
+            "version": "5.0.2",
+            "versionDate": "2024-01-28T21:40:00+08:00",
+            "versionDescription": "脱獄ごっこ9.16.0",
+            "downloadURL": "https://github.com/U5KUN/pe/releases/download/new/ProductName_v9.16.0.ipa",
+            "localizedDescription": "あ",
+            "iconURL": "https://cdn.discordapp.com/attachments/1142324260988260562/1338410007812636785/AppIcon60x602x.png?ex=67aafaf4&is=67a9a974&hm=1da78cb5c0fba2d57dd2ec89e63e00f7d686d3f5d4dcc86f2b3d55ce5ec82e4f&",
+            "tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 7206362,
+            "type": 1
+        },
+        
+        {
+            "name": "轻松签-ESign",
+            "bundleIdentifier": "p3.xyz.yyyue.esign",
+            "developerName": "yyy",
+            "version": "4.8.2",
+            "versionDate": "2023-06-16T22:20:00+08:00",
+            "versionDescription": "更新本地安装的https证书\nreplace the local install https cert\nfix bug",
+            "downloadURL": "https://pan.yyyue.xyz/d/esign/esign_4.8.2_unsigned.ipa",
+            "localizedDescription": "轻松签是一款免越狱可给ipa签名的工具，具有注入库，去库等功能。",
+            "iconURL": "https://esign.yyyue.xyz/ESignLogo200.png",
+            "tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 7206362,
+            "type": 1
+        }
+    ]
+}
